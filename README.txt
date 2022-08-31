@@ -1,4 +1,4 @@
-#GeoNames Entities in the Canton of Zurich
+# GeoNames Entities in the Canton of Zurich
 
 Toy project. Shows entities by choice from [GeoNames](https://www.geonames.org/) on a small map of the canton of Zurich.
 
